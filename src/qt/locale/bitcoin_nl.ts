@@ -1681,8 +1681,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 TRC</source>
-        <translation>123.456 TRC</translation>
+        <source>0.00 TCX</source>
+        <translation>123.456 TCX</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1751,8 +1751,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 TRC</source>
-        <translation>123.456 TRC</translation>
+        <source>123.456 TCX</source>
+        <translation>123.456 TCX</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1959,7 +1959,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-118"/>
-        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTRC, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTCX, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>U kunt berichten ondertekenen met een van uw adressen om te bewijzen dat u dit adres bezit. Pas op dat u geen onduidelijke dingen ondertekent, want phishingaanvallen zouden u kunnen misleiden om zo uw identiteit te stelen. Onderteken alleen berichten waarmee u het volledig eens bent.</translation>
     </message>
     <message>

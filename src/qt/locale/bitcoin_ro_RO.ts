@@ -1681,8 +1681,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 TRC</source>
-        <translation>123.456 TRC {0.00 ?}</translation>
+        <source>0.00 TCX</source>
+        <translation>123.456 TCX {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1751,8 +1751,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 TRC</source>
-        <translation>123.456 TRC</translation>
+        <source>123.456 TCX</source>
+        <translation>123.456 TCX</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1959,7 +1959,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-118"/>
-        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTRC, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTCX, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Puteti semna mesaje cu adresa dumneavoastra pentru a demostra ca sunteti proprietarul lor. Aveti grija sa nu semnati nimic vag, deoarece atacurile de tip phishing va pot pacali sa le transferati identitatea. Semnati numai declaratiile detaliate cu care sunteti deacord.</translation>
     </message>
     <message>

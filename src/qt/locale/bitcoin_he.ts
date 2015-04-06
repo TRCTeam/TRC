@@ -1664,7 +1664,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 TRC</source>
+        <source>0.00 TCX</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1734,7 +1734,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 TRC</source>
+        <source>123.456 TCX</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1942,7 +1942,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-118"/>
-        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTRC, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTCX, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>אתה יכול לחתום על הודעות עם הכתובות שלך כדי להוכיח שהן בבעלותך. היזהר לא לחתום על משהו מעורפל, שכן התקפות פישינג עשויות לגרום לך בעורמה למסור את זהותך. חתום רק על אמרות מפורטות לחלוטין שאתה מסכים עימן.</translation>
     </message>
     <message>

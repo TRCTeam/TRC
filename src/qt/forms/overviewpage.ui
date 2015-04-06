@@ -553,7 +553,7 @@
              <string>Your current spendable balance</string>
             </property>
             <property name="text">
-             <string notr="true">0 TRC</string>
+             <string notr="true">0 TCX</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -585,7 +585,7 @@
              <string>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</string>
             </property>
             <property name="text">
-             <string notr="true">0 TRC</string>
+             <string notr="true">0 TCX</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -623,7 +623,7 @@
              <string notr="true"/>
             </property>
             <property name="text">
-             <string notr="true">0 TRC</string>
+             <string notr="true">0 TCX</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -687,7 +687,7 @@
              <string>Mined balance that has not yet matured</string>
             </property>
             <property name="text">
-             <string notr="true">0 TRC</string>
+             <string notr="true">0 TCX</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -767,7 +767,7 @@
           <item>
            <widget class="QLabel" name="label_4">
             <property name="text">
-             <string>Recent history:</string>
+             <string>Recent History:</string>
             </property>
             <property name="openExternalLinks">
              <bool>true</bool>

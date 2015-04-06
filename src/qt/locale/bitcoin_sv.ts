@@ -1682,8 +1682,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 TRC</source>
-        <translation>123.456 TRC {0.00 ?}</translation>
+        <source>0.00 TCX</source>
+        <translation>123.456 TCX {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1752,8 +1752,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 TRC</source>
-        <translation>123.456 TRC</translation>
+        <source>123.456 TCX</source>
+        <translation>123.456 TCX</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1960,7 +1960,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-118"/>
-        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTRC, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTCX, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Du kan signera meddelanden med dina adresser för att bevisa att du äger dem. Var försiktig med vad du signerar eftersom phising-attacker kan försöka få dig att skriva över din identitet till någon annan. Signera bara väldetaljerade påståenden du kan gå i god för.</translation>
     </message>
     <message>

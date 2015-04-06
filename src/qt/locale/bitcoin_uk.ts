@@ -1665,7 +1665,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 TRC</source>
+        <source>0.00 TCX</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1735,7 +1735,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 TRC</source>
+        <source>123.456 TCX</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1943,7 +1943,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-118"/>
-        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTRC, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTCX, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Ви можете зареєструватися повідомленнями зі своїми адресами, щоб довести, що ви є їх власником. Будьте обережні, щоб не підписувати що-небудь неясне, як фішинг-атак може спробувати обдурити вас в підписанні вашу особистість до них. Тільки підписати повністю докладні свідчення, користувач зобов&apos;язується.</translation>
     </message>
     <message>

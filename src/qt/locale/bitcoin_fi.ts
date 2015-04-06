@@ -1679,8 +1679,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 TRC</source>
-        <translation>123.456 TRC {0.00 ?}</translation>
+        <source>0.00 TCX</source>
+        <translation>123.456 TCX {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1749,8 +1749,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 TRC</source>
-        <translation>123.456 TRC</translation>
+        <source>123.456 TCX</source>
+        <translation>123.456 TCX</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1957,7 +1957,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-118"/>
-        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTRC, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vaTCX, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Voit allekirjoittaa viestit omalla osoitteellasi todistaaksesi että omistat ne. Ole huolellinen, ettet allekirjoita mitään epämääräistä, sillä phishing-hyökkääjät voivat yrittää huijata sinua allekirjoittamaan henkilöllisyytesi heidän hyväksi. Allekirjoita vain se,  mihin olet sitoutunut.</translation>
     </message>
     <message>

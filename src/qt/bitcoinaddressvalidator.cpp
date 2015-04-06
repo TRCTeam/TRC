@@ -1,7 +1,7 @@
 #include "bitcoinaddressvalidator.h"
 
 /* Base58 characters are:
-     "123456789ATRCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
+     "123456789ATCXDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
 
   This is:
   - All numbers except for '0'

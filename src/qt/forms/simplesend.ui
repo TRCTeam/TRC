@@ -59,17 +59,17 @@
     <widget class="QComboBox" name="amountUnits">
      <item>
       <property name="text">
-       <string>TRC</string>
+       <string>TCX</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>mTRC</string>
+       <string>mTCX</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>uTRC</string>
+       <string>uTCX</string>
       </property>
      </item>
     </widget>
